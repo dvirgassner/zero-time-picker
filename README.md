@@ -1,5 +1,5 @@
 # zero-time-picker
-Time picker for MIT App Inventor 2 with automatic addition of "0" to hour or minute smaller than 10
+Time picker for MIT App Inventor 2 with automatic addition of "0" to hour or minute smaller than 10.
 
 This sample MIT App Inventor 2 project nicely displays the selected time over the time picker button. It can be easily ported to displaying the time in a label or any other visual object.
 
